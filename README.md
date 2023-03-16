@@ -54,3 +54,7 @@ To update the GE Proton build and clean up older versions, run:
 ```bash
 rust-protonug update --clean
 ```
+
+## Why are u here
+
+- clout has been given to: [@VoltrexKeyva](https://github.com/VoltrexKeyva) as he made the original one
